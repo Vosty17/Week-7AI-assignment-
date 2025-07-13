@@ -50,3 +50,35 @@ Violations risk huge fines (up to 4% of global revenue).
 
 
 **Result:** GDPR pushes AI toward **ethical, user-friendly, and accountable** systems but increases costs and complexity for developers.
+
+
+# QUESTIONS
+# 2. Ethical Principles Matching
+## Match the following principles to their definitions:
+
+**A) Justice**
+
+**B) Non-maleficence**
+
+**C) Autonomy**
+
+**D) Sustainability**
+
+        1. Ensuring AI does not harm individuals or society.
+
+        2. Respecting users’ right to control their data and decisions.
+
+        3. Designing AI to be environmentally friendly.
+
+        4. Fair distribution of AI benefits and risks.
+
+# ANSWERS
+# Here’s the correct matching of principles to their definitions:
+
+**A) Justice** → Fair distribution of AI benefits and risks.
+
+**B) Non-maleficence** → Ensuring AI does not harm individuals or society.
+
+**C) Autonomy** → Respecting users’ right to control their data and decisions.
+
+**D) Sustainability** → Designing AI to be environmentally friendly.
